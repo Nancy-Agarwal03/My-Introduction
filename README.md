@@ -2,7 +2,7 @@
 
 Hi, I'm Nancy Agarwal 👋
 
-## About Me
+## 👩‍💻 About Me
 
 - 🎓 I'm a b.tech student interested in technology and programming.
 - 💻 I'm learning web development, AIML and GitHub.
@@ -11,7 +11,7 @@ Hi, I'm Nancy Agarwal 👋
 - 💡 I enjoy learning new things and building projects.
 - 🚀 Working on improving my coding skills
 
-## Skills
+## 🛠️ Skills
 
 - HTML
 - CSS
@@ -27,6 +27,6 @@ To become a skilled developer and build useful projects.
 
 
 
-## Connect With Me
+## 🔗 Connect With Me
 
 - GitHub: Nancy-Agarwal03
